@@ -1,0 +1,44 @@
+{
+  "entertainment_news": [
+    {
+      "title": "नेपाली सिनेकर्मी जेनिश पहाडी सिक्किममा सम्मानित",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/third-party/65556548980827222229381569086489619797501n-2332026065258-1000x0.jpg&w=701&h=0",
+      "category": "मनोरञ्जन",
+      "author": "कान्तिपुर संवाददाता",
+      "link": "https://ekantipur.com/entertainment/2026/03/23/nepali-filmmaker-janish-pahadi-honored-in-sikkim-38-18.html"
+    },
+    {
+      "title": "‘निफ’मा सहभागी हुन नेपाल आउँदै ‘शोले’ निर्देशक",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/sippi-2232026084423-1000x0.jpg&w=701&h=0",
+      "category": "मनोरञ्जन",
+      "author": "कान्तिपुर संवाददाता",
+      "link": "https://ekantipur.com/entertainment/2026/03/22/sholay-director-coming-to-nepal-to-participate-in-nif-31-39.html"
+    },
+    {
+      "title": "'धुरन्धर : द रिभेन्ज'ले चार दिनमै कमायो पाँच सय करोड",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/third-party/dhurandhar-ranabir-2232026081546-1000x0.jpg&w=701&h=0",
+      "category": "मनोरञ्जन",
+      "author": "कान्तिपुर संवाददाता",
+      "link": "https://ekantipur.com/entertainment/2026/03/22/dhurandhar-the-revenge-earns-rs-500-crore-in-four-days-01-53.html"
+    },
+    {
+      "title": "'चरणदास चोर'ले छेड्ने प्रश्न -के तिमी वाचामा कटिबद्ध छौ ?",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/entertainment/dramacharandashchormandalathetre20260312dsc4404-1332026072101-1000x0.jpg&w=701&h=0",
+      "category": "मनोरञ्जन",
+      "author": "रीना मोक्तान",
+      "link": "https://ekantipur.com/entertainment/2026/03/22/charandas-chor-asks-the-piercing-question-are-you-committed-to-your-promise-45-22.html"
+    },
+    {
+      "title": "भक्तपुर फिल्म महोत्सवमा देखाइए २४ फिल्म",
+      "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2026/entertainment/65511470512700854084102905307034263224460715n-2132026042246-1000x0.jpg&w=701&h=0",
+      "category": "मनोरञ्जन",
+      "author": "कान्तिपुर संवाददाता",
+      "link": "https://ekantipur.com/entertainment/2026/03/21/24-films-screened-at-bhaktapur-film-festival-08-03.html"
+    }
+  ],
+  "cartoon_of_the_day": {
+    "title": "कार्टुन",
+    "image_url": "https://assets-cdn-api.ekantipur.com/thumb.php?src=https://assets-cdn.ekantipur.com/uploads/source/news/kantipur/2022/third-party/gajab-chha-ba-821210-2432026022859-1000x0.jpg&w=601&h=0",
+    "link": "https://ekantipur.com/cartoon"
+  }
+}
