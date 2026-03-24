@@ -1,0 +1,23 @@
+Create a basic Playwright Python script skeleton using sync_playwright with browser launch and page navigation.
+
+Write Playwright code to open https://ekantipur.com and navigate to the "मनोरञ्जन" (Entertainment) section using a stable selector.
+
+Given article card selector, extract top 5 news articles with title, image_url, category, and author fields.
+
+Modify extraction logic to handle missing author elements safely and return None if not found.
+
+Write Playwright code to extract the "Cartoon of the Day" section with title, image_url, and author.
+
+Add proper waiting strategies like wait_for_selector and wait_for_load_state to handle dynamic content.
+
+Improve selector reliability by avoiding fragile XPath and using stable attributes like href or semantic HTML.
+
+Add error handling using try-except blocks to prevent script failure when elements are missing.
+
+Write Python code to save extracted data into output.json using ensure_ascii=False for proper Nepali text encoding.
+
+Combine all parts into a complete Playwright scraping script with clean structure and comments.
+
+Optimize the script for readability and maintainability.
+
+Fix Playwright strict mode violation when multiple elements match a selector by making the selector more specific or selecting the first element.
